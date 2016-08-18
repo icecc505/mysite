@@ -1,3 +1,7 @@
+.idea
+.DS_store
+.deployment-config.json
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
